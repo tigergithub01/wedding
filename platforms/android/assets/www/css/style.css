@@ -1,0 +1,39 @@
+/* Empty. Add your own CSS if you like */
+.tab-bottom-main{
+	margin-bottom: 5px;
+}
+.ion-home-page-on{
+	background: url(image/home_page_on.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+.ion-home-page-off{
+	background: url(image/home_page_off.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+
+.ion-tools-page-on{
+	background: url(image/tools_page_on.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+.ion-tools-page-off{
+	background: url(image/tools_page_off.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+
+.ion-faxian-page-on{
+	background: url(image/faxian_page_on.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+.ion-faxian-page-off{
+	background: url(image/faxian_page_off.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+
+.ion-me-page-on{
+	background: url(image/me_page_on.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
+.ion-me-page-off{
+	background: url(image/me_page_off.png) no-repeat center center;
+	background-size: 32px 22.26px;
+}
